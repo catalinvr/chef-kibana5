@@ -1,3 +1,6 @@
+## 1.4.1 (22 Feb, 2018)
+  - Add support for Ubuntu 14.04;
+
 ## 1.4.0 (8 Feb, 2018)
   - Add plugin resource;
 
